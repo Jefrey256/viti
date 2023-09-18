@@ -44,7 +44,7 @@ const Home = () => {
   return (
     <>
       <header>
-        <h1 className="h1alt">Seja Bem vindo FURBRcomics</h1>
+        <h1 className="h1alt">Seja Bem vindo seu puto</h1>
         <button><Link to={"/gay"}>Gay</Link></button>
       </header>
       <div id="hamburger">&#9776;</div>
@@ -74,22 +74,23 @@ const Home = () => {
           </li>
         </ul>
       </div>
+      <h1>fodase</h1>
       
       <section className="pig">
         <div className="cont">
           <div className="ft">
             <h2 >NEKO ARC</h2>
-            <img src="https://github.com/Jefrey256/imgs/blob/main/projetinho/CvdhxAgUAAErU7q.jpg?raw=true" alt=""/>
+            <img src="4https://github.com/Jefrey256/imgs/blob/main/projetinho/CvdhxAgUAAErU7q.jpg?raw=true" alt=""/>
             <h2 >Editor: JEREDY</h2>
           </div>
           <div className="ft">
             <h2 >NEKO ARC</h2>
-            <img src="https://github.com/Jefrey256/imgs/blob/main/projetinho/IMG-20230731-WA2589.jpg?raw=true" alt=""/>
+            <img src="4https://github.com/Jefrey256/imgs/blob/main/projetinho/IMG-20230731-WA2589.jpg?raw=true" alt=""/>
             <h2 >Editor: JEREDY</h2>
           </div>
           <div className="ft">
             <h2 >NEKO ARC</h2>
-            <img src="https://github.com/Jefrey256/imgs/blob/main/projetinho/IMG-20230731-WA2600.jpg?raw=true" alt=""/>
+            <img src="4https://github.com/Jefrey256/imgs/blob/main/projetinho/IMG-20230731-WA2600.jpg?raw=true" alt=""/>
             <h2 >Editor: JEREDY</h2>
           </div>
         </div>
